@@ -23,3 +23,6 @@ as the password use the full token including the pypi prefix
 
 
 
+to install your own package use:
+
+python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps example-package-YOUR-USERNAME-HERE
